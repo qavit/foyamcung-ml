@@ -1,13 +1,13 @@
 # 機器學習
-transformers=4.46.2
-torch=2.2.2
-numpy=1.26.4 # >2 疑似會與 torch 不相容
+transformers==4.46.2
+torch==2.2.2
+numpy==1.26.4 # >2 疑似會與 torch 不相容
 
 # API
-fastapi=0.115.5
-pydantic=2.9.2
-uvicorn=0.32.0
+fastapi==0.115.5
+pydantic==2.9.2
+uvicorn==0.32.0
 
 # 音訊處理
-soundfile=0.12.1
-simpleaudio=1.0.4
+soundfile==0.12.1
+simpleaudio==1.0.4
